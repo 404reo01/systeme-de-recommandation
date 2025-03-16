@@ -33,7 +33,7 @@ Le projet est organisé en deux fichiers principaux :
 
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-depot.git
+   git clone https://github.com/404reo01/systeme-de-recommandation.git
    cd votre-depot
     2. Installez les dépendances nécessaires :
        bash
